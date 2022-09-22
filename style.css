@@ -123,4 +123,13 @@ html, body {
     color: white;
     border: none;
     padding: 8px 20px;
+    border-radius: 10%;
+  }
+  .life-style-btn {
+
+   border-radius: 10%;
+    background-color:;
+    font-size: 15px;
+    padding:8px 20px;
+    border: 1px solid rgba(197, 193, 193, 0.3);
   }
